@@ -57,18 +57,15 @@ Follow these steps to set up and run the project locally:
 
 ## Screenshots
 
-### Quiz Question View
-![Quiz Question](https://via.placeholder.com/600x400.png?text=Quiz+App+Question)
+### Quiz Start View
+![Quiz Question](./screenshot/questionquiz.png)
 
-### Timer
-![Timer Example](https://via.placeholder.com/600x400.png?text=Quiz+App+Timer)
+### Quiz Question Example
+![Timer Example](./screenshot/question.png)
 
 ### Final Score View
-![Final Score](https://via.placeholder.com/600x400.png?text=Quiz+App+Score)
+![Final Score](./screenshot/final.png)
 
-## Demo
-
-You can see a live demo of the app [here](#).
 
 ## Future Enhancements
 
@@ -77,10 +74,6 @@ You can see a live demo of the app [here](#).
 - Provide a retry option after completing the quiz.
 - Enhance the timer with animations.
 
-## License
 
-This project is licensed under the MIT License. Feel free to use and modify it as needed.
-
----
 
 Happy Quizzing! 🎉
